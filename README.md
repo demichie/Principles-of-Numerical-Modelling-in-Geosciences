@@ -3,7 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/demichie/Principles-of-Numerical-Modelling-in-Geosciences/)
 
-This repository contains the official companion Jupyter Notebooks for the book [**"Principles of Numerical Modelling in Geosciences"**](https://www.amazon.com/dp/B0FQWY1WRN "Amazon page) by Mattia de’ Michieli Vitturi.
+This repository contains the official companion Jupyter Notebooks for the book [**"Principles of Numerical Modelling in Geosciences"**][https://www.amazon.com/dp/B0FQWY1WRN "Amazon page] by Mattia de’ Michieli Vitturi.
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
