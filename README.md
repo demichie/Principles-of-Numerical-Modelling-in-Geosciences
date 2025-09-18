@@ -5,6 +5,7 @@
 
 This repository contains the official companion Jupyter Notebooks for the book ["Principles of Numerical Modelling in Geosciences"](https://www.amazon.com/dp/B0FQWY1WRN) by Mattia de’ Michieli Vitturi.
 
+![alt text](https://github.com/demichie/Principles-of-Numerical-Modelling-in-Geosciences/blob/main/cover.jpg?raw=true)
 
 These notebooks provide all the Python code examples presented in the book, allowing readers to run the simulations, explore the concepts interactively, and build a practical understanding of the numerical methods discussed.
 
